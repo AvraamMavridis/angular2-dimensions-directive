@@ -1,6 +1,6 @@
 {
   "name": "angular2-dimensions-directive",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Angular2 directive to get the dimensions of an Element, even if it change during time",
   "main": "index.js",
   "scripts": {
