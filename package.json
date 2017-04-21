@@ -41,7 +41,7 @@
     "tslint-loader": "^2.1.0",
     "typedoc": "^0.4.4",
     "typescript": "2.0.3",
-    "zone.js": "^0.6.25"
+    "zone.js": "^0.8.8"
   },
   "dependencies": {
     "element-resize-detector": "^1.1.9"
